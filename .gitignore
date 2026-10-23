@@ -1,0 +1,7 @@
+.gradle/
+.idea/
+local.properties
+**/build/
+rust-core/target/
+*.iml
+.DS_Store
